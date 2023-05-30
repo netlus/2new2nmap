@@ -33,6 +33,6 @@ Script is NOT for educational purpose ONLY. PET, LIKE AND SUBSCRIBE 😻
 
 Digital Civil Ulydighed på Facebook.
 
-Side....: DCU "DIN CYBER USER"  https://www.facebook.com/profile.php?id=100086412669075
-Gruppe..: DCU "DIN CYBER USER"  https://www.facebook.com/groups/1232810363930860
-Bruger..: FritFormat            https://www.facebook.com/fritformat.fritformat/
+Side....:   DCU "DIN CYBER USER"    https://www.facebook.com/profile.php?id=100086412669075
+Gruppe..:   DCU "DIN CYBER USER"    https://www.facebook.com/groups/1232810363930860
+Bruger..:   FritFormat              https://www.facebook.com/fritformat.fritformat/
