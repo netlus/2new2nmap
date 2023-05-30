@@ -1,10 +1,9 @@
-# 2new2nmap
-120 nmap commands in a menu using bashscript.
+##############################################################
+#  Digital Civil Disobedience Sudo Nmap Command Cheat Menu!  #
+##############################################################
 
 ##############################################################
-#                                                            #
-#  Digital Civil Disobedience Sudo Nmap Command Cheat Menu!  #
-#                                                            #
+#   2new2nmap.sh / 120 nmap commands in a bashscript menu.   #
 ##############################################################
 
 I started this project, intending to learn a bit of bash scripting and the use of Nmap.
@@ -33,6 +32,7 @@ Script is NOT for educational purpose ONLY. PET, LIKE AND SUBSCRIBE 😻
     ps. Remember In denmark it's illegal to portscan without permission.
 
 Digital Civil Ulydighed på Facebook.
-Side....: DCU "DIN CYBER USER"
-Gruppe..: DCU "DIN CYBER USER"
-Bruger..: FritFormat FritFormat
+
+Side....: DCU "DIN CYBER USER"  https://www.facebook.com/profile.php?id=100086412669075
+Gruppe..: DCU "DIN CYBER USER"  https://www.facebook.com/groups/1232810363930860
+Bruger..: FritFormat            https://www.facebook.com/fritformat.fritformat/
